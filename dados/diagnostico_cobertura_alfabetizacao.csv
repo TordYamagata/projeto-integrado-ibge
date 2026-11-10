@@ -1,0 +1,271 @@
+﻿uf,sexo,cor_raca,celulas_total,celulas_completas,populacao_total,populacao_alfabetizada,cobertura_celulas_pct,taxa_alfabetizacao_pct,dados_completos
+Acre,Homens,Amarela,154,36,455.0,395.0,23.38,86.813,False
+Acre,Homens,Branca,154,152,59692.0,53437.0,98.7,89.521,False
+Acre,Homens,Indígena,154,104,7730.0,6253.0,67.53,80.893,False
+Acre,Homens,Parda,154,154,200914.0,174567.0,100.0,86.886,True
+Acre,Homens,Preta,154,145,32747.0,27108.0,94.16,82.78,False
+Acre,Mulheres,Amarela,154,33,650.0,585.0,21.43,90.0,False
+Acre,Mulheres,Branca,154,151,65450.0,59992.0,98.05,91.661,False
+Acre,Mulheres,Indígena,154,106,7705.0,5406.0,68.83,70.162,False
+Acre,Mulheres,Parda,154,154,206223.0,184096.0,100.0,89.27,True
+Acre,Mulheres,Preta,154,137,25530.0,21474.0,88.96,84.113,False
+Alagoas,Homens,Amarela,714,92,1106.0,927.0,12.89,83.816,False
+Alagoas,Homens,Branca,714,709,313645.0,264999.0,99.3,84.49,False
+Alagoas,Homens,Indígena,714,172,6589.0,5053.0,24.09,76.688,False
+Alagoas,Homens,Parda,714,713,677404.0,543117.0,99.86,80.176,False
+Alagoas,Homens,Preta,714,702,134307.0,102012.0,98.32,75.954,False
+Alagoas,Mulheres,Amarela,714,105,1777.0,1522.0,14.71,85.65,False
+Alagoas,Mulheres,Branca,714,697,373183.0,322278.0,97.62,86.359,False
+Alagoas,Mulheres,Indígena,714,150,6382.0,5030.0,21.01,78.815,False
+Alagoas,Mulheres,Parda,714,713,774320.0,645221.0,99.86,83.327,False
+Alagoas,Mulheres,Preta,714,650,119886.0,91939.0,91.04,76.689,False
+Amapá,Homens,Amarela,112,8,129.0,117.0,7.14,90.698,False
+Amapá,Homens,Branca,112,105,50012.0,47506.0,93.75,94.989,False
+Amapá,Homens,Indígena,112,27,2885.0,2642.0,24.11,91.577,False
+Amapá,Homens,Parda,112,112,171012.0,159166.0,100.0,93.073,True
+Amapá,Homens,Preta,112,106,38125.0,34835.0,94.64,91.37,False
+Amapá,Mulheres,Amarela,112,8,155.0,145.0,7.14,93.548,False
+Amapá,Mulheres,Branca,112,103,57667.0,54942.0,91.96,95.275,False
+Amapá,Mulheres,Indígena,112,25,3031.0,2660.0,22.32,87.76,False
+Amapá,Mulheres,Parda,112,112,178725.0,167296.0,100.0,93.605,True
+Amapá,Mulheres,Preta,112,88,30671.0,28485.0,78.57,92.873,False
+Amazonas,Homens,Amarela,434,27,1467.0,1422.0,6.22,96.933,False
+Amazonas,Homens,Branca,434,413,242966.0,229896.0,95.16,94.621,False
+Amazonas,Homens,Indígena,434,386,93979.0,79405.0,88.94,84.492,False
+Amazonas,Homens,Parda,434,433,981735.0,915558.0,99.77,93.259,False
+Amazonas,Homens,Preta,434,400,94768.0,85042.0,92.17,89.737,False
+Amazonas,Mulheres,Amarela,434,35,1962.0,1880.0,8.06,95.821,False
+Amazonas,Mulheres,Branca,434,405,276032.0,263324.0,93.32,95.396,False
+Amazonas,Mulheres,Indígena,434,379,91224.0,73361.0,87.33,80.419,False
+Amazonas,Mulheres,Parda,434,432,1007389.0,949321.0,99.54,94.236,False
+Amazonas,Mulheres,Preta,434,361,65954.0,59451.0,83.18,90.14,False
+Bahia,Homens,Amarela,2919,264,2628.0,2222.0,9.04,84.551,False
+Bahia,Homens,Branca,2919,2824,1020416.0,895842.0,96.75,87.792,False
+Bahia,Homens,Indígena,2919,831,26953.0,21897.0,28.47,81.241,False
+Bahia,Homens,Parda,2919,2915,3024323.0,2600714.0,99.86,85.993,False
+Bahia,Homens,Preta,2919,2827,1289160.0,1102585.0,96.85,85.527,False
+Bahia,Mulheres,Amarela,2919,268,3212.0,2758.0,9.18,85.866,False
+Bahia,Mulheres,Branca,2919,2726,1152028.0,1029193.0,93.39,89.337,False
+Bahia,Mulheres,Indígena,2919,751,28410.0,23003.0,25.73,80.968,False
+Bahia,Mulheres,Parda,2919,2886,3333238.0,2948114.0,98.87,88.446,False
+Bahia,Mulheres,Preta,2919,2671,1340924.0,1174654.0,91.5,87.6,False
+Ceará,Homens,Amarela,1288,261,2897.0,2276.0,20.26,78.564,False
+Ceará,Homens,Branca,1288,1280,885934.0,770579.0,99.38,86.979,False
+Ceará,Homens,Indígena,1288,262,13738.0,10852.0,20.34,78.993,False
+Ceará,Homens,Parda,1288,1287,2144989.0,1779481.0,99.92,82.96,False
+Ceará,Homens,Preta,1288,1233,283376.0,218134.0,95.73,76.977,False
+Ceará,Mulheres,Amarela,1288,273,3764.0,3102.0,21.2,82.412,False
+Ceará,Mulheres,Branca,1288,1260,1038034.0,938028.0,97.83,90.366,False
+Ceará,Mulheres,Indígena,1288,210,13793.0,11581.0,16.3,83.963,False
+Ceará,Mulheres,Parda,1288,1281,2346563.0,2057693.0,99.46,87.69,False
+Ceará,Mulheres,Preta,1288,1103,240212.0,194805.0,85.64,81.097,False
+Distrito Federal,Homens,Amarela,7,7,5073.0,4999.0,100.0,98.541,True
+Distrito Federal,Homens,Branca,7,7,404436.0,396658.0,100.0,98.077,True
+Distrito Federal,Homens,Indígena,7,7,2155.0,2046.0,100.0,94.942,True
+Distrito Federal,Homens,Parda,7,7,524093.0,506261.0,100.0,96.598,True
+Distrito Federal,Homens,Preta,7,7,135221.0,129419.0,100.0,95.709,True
+Distrito Federal,Mulheres,Amarela,7,7,6032.0,5945.0,100.0,98.558,True
+Distrito Federal,Mulheres,Branca,7,7,500554.0,491296.0,100.0,98.15,True
+Distrito Federal,Mulheres,Indígena,7,7,2626.0,2486.0,100.0,94.669,True
+Distrito Federal,Mulheres,Parda,7,7,575720.0,558839.0,100.0,97.068,True
+Distrito Federal,Mulheres,Preta,7,7,127157.0,121838.0,100.0,95.817,True
+Espírito Santo,Homens,Amarela,546,43,691.0,642.0,7.88,92.909,False
+Espírito Santo,Homens,Branca,546,530,565072.0,540880.0,97.07,95.719,False
+Espírito Santo,Homens,Indígena,546,93,3573.0,3245.0,17.03,90.82,False
+Espírito Santo,Homens,Parda,546,537,726050.0,683596.0,98.35,94.153,False
+Espírito Santo,Homens,Preta,546,482,187997.0,172736.0,88.28,91.882,False
+Espírito Santo,Mulheres,Amarela,546,36,635.0,580.0,6.59,91.339,False
+Espírito Santo,Mulheres,Branca,546,511,636441.0,608090.0,93.59,95.545,False
+Espírito Santo,Mulheres,Indígena,546,93,3760.0,3274.0,17.03,87.074,False
+Espírito Santo,Mulheres,Parda,546,521,768517.0,720849.0,95.42,93.797,False
+Espírito Santo,Mulheres,Preta,546,443,172900.0,157962.0,81.14,91.36,False
+Goiás,Homens,Amarela,1722,124,3721.0,3501.0,7.2,94.088,False
+Goiás,Homens,Branca,1722,1504,941128.0,897733.0,87.34,95.389,False
+Goiás,Homens,Indígena,1722,163,2181.0,1885.0,9.47,86.428,False
+Goiás,Homens,Parda,1722,1625,1463577.0,1374819.0,94.37,93.936,False
+Goiás,Homens,Preta,1722,1337,296703.0,268848.0,77.64,90.612,False
+Goiás,Mulheres,Amarela,1722,104,4218.0,3997.0,6.04,94.761,False
+Goiás,Mulheres,Branca,1722,1408,1057821.0,1013396.0,81.77,95.8,False
+Goiás,Mulheres,Indígena,1722,174,2557.0,2185.0,10.1,85.452,False
+Goiás,Mulheres,Parda,1722,1517,1519584.0,1437948.0,88.1,94.628,False
+Goiás,Mulheres,Preta,1722,1139,244678.0,223323.0,66.14,91.272,False
+Maranhão,Homens,Amarela,1519,112,1055.0,859.0,7.37,81.422,False
+Maranhão,Homens,Branca,1519,1495,479955.0,417138.0,98.42,86.912,False
+Maranhão,Homens,Indígena,1519,334,14504.0,10879.0,21.99,75.007,False
+Maranhão,Homens,Parda,1519,1519,1620941.0,1341900.0,100.0,82.785,True
+Maranhão,Homens,Preta,1519,1490,369830.0,291241.0,98.09,78.75,False
+Maranhão,Mulheres,Amarela,1519,116,1233.0,998.0,7.64,80.941,False
+Maranhão,Mulheres,Branca,1519,1461,537959.0,481844.0,96.18,89.569,False
+Maranhão,Mulheres,Indígena,1519,322,14835.0,9956.0,21.2,67.112,False
+Maranhão,Mulheres,Parda,1519,1512,1729687.0,1503402.0,99.54,86.918,False
+Maranhão,Mulheres,Preta,1519,1391,342498.0,282530.0,91.57,82.491,False
+Mato Grosso,Homens,Amarela,987,57,1944.0,1868.0,5.78,96.091,False
+Mato Grosso,Homens,Branca,987,882,444740.0,426169.0,89.36,95.824,False
+Mato Grosso,Homens,Indígena,987,307,13427.0,11750.0,31.1,87.51,False
+Mato Grosso,Homens,Parda,987,954,775189.0,724928.0,96.66,93.516,False
+Mato Grosso,Homens,Preta,987,810,164600.0,148711.0,82.07,90.347,False
+Mato Grosso,Mulheres,Amarela,987,66,2378.0,2258.0,6.69,94.954,False
+Mato Grosso,Mulheres,Branca,987,824,454461.0,436229.0,83.49,95.988,False
+Mato Grosso,Mulheres,Indígena,987,324,14353.0,10952.0,32.83,76.305,False
+Mato Grosso,Mulheres,Parda,987,907,775441.0,730775.0,91.89,94.24,False
+Mato Grosso,Mulheres,Preta,987,678,129787.0,118463.0,68.69,91.275,False
+Mato Grosso do Sul,Homens,Amarela,553,75,5741.0,5597.0,13.56,97.492,False
+Mato Grosso do Sul,Homens,Branca,553,528,426984.0,410497.0,95.48,96.139,False
+Mato Grosso do Sul,Homens,Indígena,553,255,30089.0,26461.0,46.11,87.942,False
+Mato Grosso do Sul,Homens,Parda,553,540,492566.0,464020.0,97.65,94.205,False
+Mato Grosso do Sul,Homens,Preta,553,441,80747.0,73999.0,79.75,91.643,False
+Mato Grosso do Sul,Mulheres,Amarela,553,60,6587.0,6424.0,10.85,97.525,False
+Mato Grosso do Sul,Mulheres,Branca,553,510,472756.0,454150.0,92.22,96.064,False
+Mato Grosso do Sul,Mulheres,Indígena,553,264,30933.0,26059.0,47.74,84.243,False
+Mato Grosso do Sul,Mulheres,Parda,553,517,503908.0,473403.0,93.49,93.946,False
+Mato Grosso do Sul,Mulheres,Preta,553,386,67034.0,60924.0,69.8,90.885,False
+Minas Gerais,Homens,Amarela,5971,247,5687.0,5308.0,4.14,93.336,False
+Minas Gerais,Homens,Branca,5971,5379,3215646.0,3080348.0,90.09,95.793,False
+Minas Gerais,Homens,Indígena,5971,309,7738.0,6195.0,5.18,80.059,False
+Minas Gerais,Homens,Parda,5971,5670,3752598.0,3497667.0,94.96,93.207,False
+Minas Gerais,Homens,Preta,5971,4831,1046779.0,956267.0,80.91,91.353,False
+Minas Gerais,Mulheres,Amarela,5971,297,6609.0,6122.0,4.97,92.631,False
+Minas Gerais,Mulheres,Branca,5971,5049,3619296.0,3469330.0,84.56,95.856,False
+Minas Gerais,Mulheres,Indígena,5971,342,8164.0,6591.0,5.73,80.732,False
+Minas Gerais,Mulheres,Parda,5971,5320,3886709.0,3625204.0,89.1,93.272,False
+Minas Gerais,Mulheres,Preta,5971,4214,984785.0,896634.0,70.57,91.049,False
+Paraná,Homens,Amarela,2793,222,30981.0,30508.0,7.95,98.473,False
+Paraná,Homens,Branca,2793,2596,2784041.0,2703761.0,92.95,97.116,False
+Paraná,Homens,Indígena,2793,254,6765.0,5872.0,9.09,86.8,False
+Paraná,Homens,Parda,2793,2595,1357060.0,1281768.0,92.91,94.452,False
+Paraná,Homens,Preta,2793,1906,214258.0,198243.0,68.24,92.525,False
+Paraná,Mulheres,Amarela,2793,257,33843.0,33154.0,9.2,97.964,False
+Paraná,Mulheres,Branca,2793,2480,3117038.0,3008998.0,88.79,96.534,False
+Paraná,Mulheres,Indígena,2793,289,7120.0,5810.0,10.35,81.601,False
+Paraná,Mulheres,Parda,2793,2425,1346251.0,1249570.0,86.82,92.819,False
+Paraná,Mulheres,Preta,2793,1648,181507.0,163110.0,59.0,89.864,False
+Paraíba,Homens,Amarela,1561,94,848.0,696.0,6.02,82.075,False
+Paraíba,Homens,Branca,1561,1515,509426.0,430779.0,97.05,84.562,False
+Paraíba,Homens,Indígena,1561,120,8434.0,6599.0,7.69,78.243,False
+Paraíba,Homens,Parda,1561,1541,827587.0,664669.0,98.72,80.314,False
+Paraíba,Homens,Preta,1561,1369,142797.0,107068.0,87.7,74.979,False
+Paraíba,Mulheres,Amarela,1561,114,1206.0,1012.0,7.3,83.914,False
+Paraíba,Mulheres,Branca,1561,1422,586598.0,519881.0,91.1,88.626,False
+Paraíba,Mulheres,Indígena,1561,106,8946.0,7397.0,6.79,82.685,False
+Paraíba,Mulheres,Parda,1561,1492,907308.0,779333.0,95.58,85.895,False
+Paraíba,Mulheres,Preta,1561,1162,126281.0,99885.0,74.44,79.097,False
+Pará,Homens,Amarela,1008,131,2587.0,2374.0,13.0,91.767,False
+Pará,Homens,Branca,1008,991,552049.0,511325.0,98.31,92.623,False
+Pará,Homens,Indígena,1008,384,19410.0,16491.0,38.1,84.961,False
+Pará,Homens,Parda,1008,1008,2092223.0,1879567.0,100.0,89.836,True
+Pará,Homens,Preta,1008,984,363321.0,316163.0,97.62,87.02,False
+Pará,Mulheres,Amarela,1008,125,2707.0,2509.0,12.4,92.686,False
+Pará,Mulheres,Branca,1008,976,607419.0,571622.0,96.83,94.107,False
+Pará,Mulheres,Indígena,1008,349,19671.0,15613.0,34.62,79.371,False
+Pará,Mulheres,Parda,1008,1004,2153108.0,1990864.0,99.6,92.465,False
+Pará,Mulheres,Preta,1008,925,296329.0,265885.0,91.77,89.726,False
+Pernambuco,Homens,Amarela,1295,235,2937.0,2512.0,18.15,85.529,False
+Pernambuco,Homens,Branca,1295,1286,1069793.0,939219.0,99.31,87.794,False
+Pernambuco,Homens,Indígena,1295,354,28768.0,23008.0,27.34,79.978,False
+Pernambuco,Homens,Parda,1295,1292,1849750.0,1557744.0,99.77,84.214,False
+Pernambuco,Homens,Preta,1295,1243,397862.0,328865.0,95.98,82.658,False
+Pernambuco,Mulheres,Amarela,1295,213,4159.0,3676.0,16.45,88.387,False
+Pernambuco,Mulheres,Branca,1295,1275,1300093.0,1168672.0,98.46,89.891,False
+Pernambuco,Mulheres,Indígena,1295,333,30031.0,25083.0,25.71,83.524,False
+Pernambuco,Mulheres,Parda,1295,1286,2076153.0,1810741.0,99.31,87.216,False
+Pernambuco,Mulheres,Preta,1295,1145,384800.0,324294.0,88.42,84.276,False
+Piauí,Homens,Amarela,1568,87,675.0,500.0,5.55,74.074,False
+Piauí,Homens,Branca,1568,1455,266658.0,224991.0,92.79,84.374,False
+Piauí,Homens,Indígena,1568,115,1834.0,1356.0,7.33,73.937,False
+Piauí,Homens,Parda,1568,1560,796972.0,638270.0,99.49,80.087,False
+Piauí,Homens,Preta,1568,1439,178782.0,134310.0,91.77,75.125,False
+Piauí,Mulheres,Amarela,1568,76,687.0,507.0,4.85,73.799,False
+Piauí,Mulheres,Branca,1568,1378,296383.0,258810.0,87.88,87.323,False
+Piauí,Mulheres,Indígena,1568,117,1786.0,1338.0,7.46,74.916,False
+Piauí,Mulheres,Parda,1568,1514,858830.0,729841.0,96.56,84.981,False
+Piauí,Mulheres,Preta,1568,1255,158177.0,125178.0,80.04,79.138,False
+Rio Grande do Norte,Homens,Amarela,1169,113,1178.0,955.0,9.67,81.07,False
+Rio Grande do Norte,Homens,Branca,1169,1153,468748.0,406525.0,98.63,86.726,False
+Rio Grande do Norte,Homens,Indígena,1169,117,3116.0,2256.0,10.01,72.401,False
+Rio Grande do Norte,Homens,Parda,1169,1159,647124.0,532112.0,99.14,82.227,False
+Rio Grande do Norte,Homens,Preta,1169,1052,140184.0,108129.0,89.99,77.134,False
+Rio Grande do Norte,Mulheres,Amarela,1169,137,1613.0,1305.0,11.72,80.905,False
+Rio Grande do Norte,Mulheres,Branca,1169,1096,543833.0,494302.0,93.76,90.892,False
+Rio Grande do Norte,Mulheres,Indígena,1169,101,2981.0,2311.0,8.64,77.524,False
+Rio Grande do Norte,Mulheres,Parda,1169,1113,697124.0,612827.0,95.21,87.908,False
+Rio Grande do Norte,Mulheres,Preta,1169,928,122558.0,101016.0,79.38,82.423,False
+Rio Grande do Sul,Homens,Amarela,3479,71,1228.0,1133.0,2.04,92.264,False
+Rio Grande do Sul,Homens,Branca,3479,3134,3304128.0,3217191.0,90.08,97.369,False
+Rio Grande do Sul,Homens,Indígena,3479,325,8639.0,7663.0,9.34,88.702,False
+Rio Grande do Sul,Homens,Parda,3479,2530,616247.0,583855.0,72.72,94.744,False
+Rio Grande do Sul,Homens,Preta,3479,1772,277222.0,262607.0,50.93,94.728,False
+Rio Grande do Sul,Mulheres,Amarela,3479,61,1247.0,1151.0,1.75,92.302,False
+Rio Grande do Sul,Mulheres,Branca,3479,2954,3684562.0,3591249.0,84.91,97.467,False
+Rio Grande do Sul,Mulheres,Indígena,3479,372,9778.0,8161.0,10.69,83.463,False
+Rio Grande do Sul,Mulheres,Parda,3479,2279,594575.0,561336.0,65.51,94.41,False
+Rio Grande do Sul,Mulheres,Preta,3479,1520,289253.0,274025.0,43.69,94.735,False
+Rio de Janeiro,Homens,Amarela,644,95,5758.0,5492.0,14.75,95.38,False
+Rio de Janeiro,Homens,Branca,644,636,2501242.0,2439336.0,98.76,97.525,False
+Rio de Janeiro,Homens,Indígena,644,105,4228.0,3973.0,16.3,93.969,False
+Rio de Janeiro,Homens,Parda,644,638,2559880.0,2465278.0,99.07,96.304,False
+Rio de Janeiro,Homens,Preta,644,622,1042616.0,997177.0,96.58,95.642,False
+Rio de Janeiro,Mulheres,Amarela,644,113,7691.0,7360.0,17.55,95.696,False
+Rio de Janeiro,Mulheres,Branca,644,611,3082594.0,3009232.0,94.88,97.62,False
+Rio de Janeiro,Mulheres,Indígena,644,115,5757.0,5344.0,17.86,92.826,False
+Rio de Janeiro,Mulheres,Parda,644,625,2802199.0,2698932.0,97.05,96.315,False
+Rio de Janeiro,Mulheres,Preta,644,579,1155956.0,1103004.0,89.91,95.419,False
+Rondônia,Homens,Amarela,364,35,551.0,494.0,9.62,89.655,False
+Rondônia,Homens,Branca,364,341,180650.0,171247.0,93.68,94.795,False
+Rondônia,Homens,Indígena,364,108,4977.0,4371.0,29.67,87.824,False
+Rondônia,Homens,Parda,364,356,353846.0,330998.0,97.8,93.543,False
+Rondônia,Homens,Preta,364,309,64462.0,58044.0,84.89,90.044,False
+Rondônia,Mulheres,Amarela,364,38,929.0,870.0,10.44,93.649,False
+Rondônia,Mulheres,Branca,364,324,191893.0,181137.0,89.01,94.395,False
+Rondônia,Mulheres,Indígena,364,113,4873.0,4052.0,31.04,83.152,False
+Rondônia,Mulheres,Parda,364,344,364000.0,340775.0,94.51,93.62,False
+Rondônia,Mulheres,Preta,364,261,48726.0,43466.0,71.7,89.205,False
+Roraima,Homens,Amarela,105,11,240.0,223.0,10.48,92.917,False
+Roraima,Homens,Branca,105,93,44086.0,42146.0,88.57,95.6,False
+Roraima,Homens,Indígena,105,92,25108.0,19848.0,87.62,79.051,False
+Roraima,Homens,Parda,105,100,131035.0,123489.0,95.24,94.241,False
+Roraima,Homens,Preta,105,86,22799.0,20625.0,81.9,90.464,False
+Roraima,Mulheres,Amarela,105,8,161.0,148.0,7.62,91.925,False
+Roraima,Mulheres,Branca,105,82,47635.0,46159.0,78.1,96.901,False
+Roraima,Mulheres,Indígena,105,95,25579.0,19496.0,90.48,76.219,False
+Roraima,Mulheres,Parda,105,102,133255.0,127769.0,97.14,95.883,False
+Roraima,Mulheres,Preta,105,71,16259.0,15114.0,67.62,92.958,False
+Santa Catarina,Homens,Amarela,2065,56,1642.0,1567.0,2.71,95.432,False
+Santa Catarina,Homens,Branca,2065,1890,2257014.0,2207692.0,91.53,97.815,False
+Santa Catarina,Homens,Indígena,2065,137,4391.0,3957.0,6.63,90.116,False
+Santa Catarina,Homens,Parda,2065,1688,578497.0,555233.0,81.74,95.979,False
+Santa Catarina,Homens,Preta,2065,1104,129966.0,124041.0,53.46,95.441,False
+Santa Catarina,Mulheres,Amarela,2065,63,1936.0,1854.0,3.05,95.764,False
+Santa Catarina,Mulheres,Branca,2065,1811,2440365.0,2386058.0,87.7,97.775,False
+Santa Catarina,Mulheres,Indígena,2065,164,4245.0,3603.0,7.94,84.876,False
+Santa Catarina,Mulheres,Parda,2065,1547,529854.0,504539.0,74.92,95.222,False
+Santa Catarina,Mulheres,Preta,2065,936,107780.0,102159.0,45.33,94.785,False
+Sergipe,Homens,Amarela,525,53,658.0,565.0,10.1,85.866,False
+Sergipe,Homens,Branca,525,517,198322.0,170809.0,98.48,86.127,False
+Sergipe,Homens,Indígena,525,85,1448.0,1234.0,16.19,85.221,False
+Sergipe,Homens,Parda,525,525,492861.0,413946.0,100.0,83.988,True
+Sergipe,Homens,Preta,525,508,123345.0,101763.0,96.76,82.503,False
+Sergipe,Mulheres,Amarela,525,47,764.0,679.0,8.95,88.874,False
+Sergipe,Mulheres,Branca,525,497,230785.0,205490.0,94.67,89.04,False
+Sergipe,Mulheres,Indígena,525,67,1247.0,1057.0,12.76,84.763,False
+Sergipe,Mulheres,Parda,525,518,567213.0,498112.0,98.67,87.817,False
+Sergipe,Mulheres,Preta,525,458,116615.0,99323.0,87.24,85.172,False
+São Paulo,Homens,Amarela,4515,626,182882.0,180287.0,13.86,98.581,False
+São Paulo,Homens,Branca,4515,4257,9695952.0,9496979.0,94.29,97.948,False
+São Paulo,Homens,Indígena,4515,370,12281.0,11490.0,8.19,93.559,False
+São Paulo,Homens,Parda,4515,4248,5792447.0,5561352.0,94.09,96.01,False
+São Paulo,Homens,Preta,4515,3415,1536570.0,1468154.0,75.64,95.547,False
+São Paulo,Mulheres,Amarela,4515,661,207809.0,204426.0,14.64,98.372,False
+São Paulo,Mulheres,Branca,4515,4044,11278245.0,10998740.0,89.57,97.522,False
+São Paulo,Mulheres,Indígena,4515,462,15502.0,14106.0,10.23,90.995,False
+São Paulo,Mulheres,Parda,4515,3955,5940712.0,5667913.0,87.6,95.408,False
+São Paulo,Mulheres,Preta,4515,2946,1476521.0,1402289.0,65.25,94.973,False
+Tocantins,Homens,Amarela,973,41,589.0,529.0,4.21,89.813,False
+Tocantins,Homens,Branca,973,788,125548.0,116213.0,80.99,92.565,False
+Tocantins,Homens,Indígena,973,128,4840.0,4271.0,13.16,88.244,False
+Tocantins,Homens,Parda,973,935,346929.0,312151.0,96.09,89.975,False
+Tocantins,Homens,Preta,973,808,87585.0,73875.0,83.04,84.347,False
+Tocantins,Mulheres,Amarela,973,42,519.0,449.0,4.32,86.513,False
+Tocantins,Mulheres,Branca,973,721,127979.0,120070.0,74.1,93.82,False
+Tocantins,Mulheres,Indígena,973,119,4595.0,3518.0,12.23,76.561,False
+Tocantins,Mulheres,Parda,973,875,353725.0,325625.0,89.93,92.056,False
+Tocantins,Mulheres,Preta,973,699,70170.0,60783.0,71.84,86.622,False
